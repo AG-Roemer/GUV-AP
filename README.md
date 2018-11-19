@@ -6,6 +6,6 @@ GUV-AP.ijm - source code. In order to run it you would need to download the FIJI
 
 test_homogeneous_GUVs.tif and test_phase_separated_GUVs.tif - examples of GUV-containig microscopy images with homogeneous and phase separated GUVs respectively.
 
-Sych et al. - Manual.docx - Manual and detailed description of script performance.
+GUV-AP manual.pdf - Manual and detailed description of script performance.
 
 Using it for scientific purposes, please cite:
