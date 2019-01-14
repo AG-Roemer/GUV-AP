@@ -8,4 +8,6 @@ test_homogeneous_GUVs.tif and test_phase_separated_GUVs.tif - examples of GUV-co
 
 GUV-AP manual.pdf - Manual and detailed description of script performance.
 
-Using it for scientific purposes, please cite:
+Using it for scientific purposes, please cite: https://doi.org/10.1093/bioinformatics/bty962
+
+Sych, Taras, et al. "GUV-AP: multifunctional FIJI-based tool for quantitative image analysis of Giant Unilamellar Vesicles." Bioinformatics (2018).
